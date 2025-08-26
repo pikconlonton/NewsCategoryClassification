@@ -87,3 +87,11 @@ These high scores indicate that our LSTM model with Word2Vec embeddings performs
 - Experiment with different embedding techniques (BERT, fastText)
 - Implement data augmentation for imbalanced categories
 - Try different model architectures (Transformer-based models)
+
+- ## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
